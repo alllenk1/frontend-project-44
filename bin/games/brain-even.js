@@ -2,12 +2,12 @@
 
 import readlineSync from 'readline-sync';
 
-const isEvenGame = () => {
+const brainEvenGame = () => {
   console.log('Welcome to the Brain Games!');
   const name = readlineSync.question('May I have your name?: ');
   console.log(`Hello, ${name}!`);
 
-  const getRandom = () => Math.floor(Math.random() * 100);
+  const getRandom = () => Math.floor(Math.random() * 10);
   let randomNum = getRandom();
   let score = 0;
   let wrongAnswer;
@@ -41,4 +41,4 @@ const isEvenGame = () => {
     console.log(`Congratulations, ${name}!`);
   }
 };
-isEvenGame();
+brainEvenGame();
