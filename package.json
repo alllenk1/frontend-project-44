@@ -5,9 +5,10 @@
   "type": "module",
   "main": "index.js",
   "bin": {
-    "brain-games": "bin/games/brain-games.js",
-    "brain-even": "bin/games/brain-even.js",
-    "brain-calc": "bin/games/brain-calc.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js",
+    "brain-calc": "bin/brain-calc.js",
+    "brain-gcd": "bin/brain-gcd.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,6 +22,7 @@
     "prettier": "^3.0.3"
   },
   "dependencies": {
+    "lodash": "^4.17.21",
     "readline-sync": "^1.4.10"
   }
 }
