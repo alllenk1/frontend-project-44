@@ -18,7 +18,7 @@ const isPrime = (randomNum) => {
 isPrime();
 
 const isPrimeGame = () => {
-  const randomNum = getRandomNum(1, 10);
+  const randomNum = getRandomNum(1, 20);
   const question = `${randomNum}`;
   const answer = isPrime(question) ? 'yes' : 'no';
   return [question, answer];
