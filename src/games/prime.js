@@ -5,7 +5,7 @@ const description = 'Answer "yes" if given number is prime. Otherwise answer "no
 
 const isPrime = (randomNum) => {
   if (randomNum === 1) {
-    return true;
+    return false;
   }
 
   for (let i = 2; i < randomNum; i += 1) {
