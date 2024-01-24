@@ -12,9 +12,7 @@ const findGreatestDivisor = (firstNumber, secondNumber) => {
     if (firstNumber % i === 0) {
       firstDivisorArr.push(i);
     }
-  }
 
-  for (let i = 1; i <= 10; i += 1) {
     if (secondNumber % i === 0) {
       secondDivisorArr.push(i);
     }

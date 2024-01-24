@@ -1,27 +1,29 @@
-hi!
-
 ### Hexlet tests and linter status:
 
 [![Actions Status](https://github.com/alllenk1/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/alllenk1/frontend-project-44/actions)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/c4b3ea3a3cbac318b560/maintainability)](https://codeclimate.com/github/alllenk1/frontend-project-44/maintainability)
 
-«Игры разума» — набор из пяти консольных игр, построенных по принципу популярных мобильных приложений для прокачки мозга. Каждая игра задает вопросы, на которые нужно дать правильные ответы. После трех правильных ответов считается, что игра пройдена. Неправильные ответы завершают игру и предлагают пройти ее заново. 
+«Игры разума» — набор из пяти консольных игр, построенных по принципу популярных мобильных приложений для прокачки мозга. Каждая игра задает вопросы, на которые нужно дать правильные ответы. После трех правильных ответов считается, что игра пройдена. Неправильные ответы завершают игру и предлагают пройти ее заново.
 
 ### Игры:
 
-- Калькулятор. Арифметические выражения, которые нужно вычислить.
-- Прогрессия. Поиск пропущенных чисел в последовательности.
-- Определение четного числа.
-- Определение наибольшего общего делителя.
-- Определение простого числа.
+#### Калькулятор. Арифметические выражения, которые нужно вычислить.
 
-[brain-even asciinema](https://asciinema.org/a/K5zrOEfB9QsjDi6dxTw0IxAEo)
+[![asciicast](https://asciinema.org/a/633030.svg)](https://asciinema.org/a/633030)
 
-[brain-calc asciinema](https://asciinema.org/a/GL6ZhaWSUgtYsDzi2mE6e1SsJ)
+#### Прогрессия. Поиск пропущенных чисел в последовательности.
 
-[brain-gcd asciinema](https://asciinema.org/a/ITeTkB5tC5xy1i6LYCPkPcief)
+[![asciicast](https://asciinema.org/a/633031.svg)](https://asciinema.org/a/633031)
 
-[brain-prime asciinema](https://asciinema.org/a/sdCu4FECmjxy7YnkTVNWohugH)
+#### Определение четного числа.
 
-[brain-progression asciinema](https://asciinema.org/a/XL4VBrK6wjGZa8DXrqP6S3pdP)
+[![asciicast](https://asciinema.org/a/633032.svg)](https://asciinema.org/a/633032)
+
+#### Определение наибольшего общего делителя.
+
+[![asciicast](https://asciinema.org/a/633033.svg)](https://asciinema.org/a/633033)
+
+#### Определение простого числа.
+
+[![asciicast](https://asciinema.org/a/633034.svg)](https://asciinema.org/a/633034)
